@@ -26,12 +26,12 @@ Webpack Multi-Page Template is a starter kit for building multi-page websites wi
 ## Installation
 
 1. Clone the repository:
-        ```sh
+        ```
         git clone https://github.com/your-username/template-project.git
         cd template-project
         ```
 2. Install dependencies:
-        ```sh
+        ```
         npm install
         ```
 
@@ -81,11 +81,11 @@ The output will be in the `dist` directory.
 ## Scripts
 
 - **Start Development Server**:
-        ```sh
+        ```
         npm run start
         ```
 - **Build for Production**:
-        ```sh
+        ```
         npm run build
         ```
 
